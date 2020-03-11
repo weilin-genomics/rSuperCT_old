@@ -46,7 +46,7 @@ table(myces@meta.data$pred_types)
 plotHist(myces)
 ```
 ## References
-[1] Xie Peng and Gao Mingxuan (2019). SuperCT: a supervised-learning framework for enhanced characterization of single-cell transcriptomic profiles. https://doi.org/10.1093/nar/gkz116. Nucleic Acids Research.
+[1] Xie, P. et.al. (2019). SuperCT: a supervised-learning framework for enhanced characterization of single-cell transcriptomic profiles. https://doi.org/10.1093/nar/gkz116. Nucleic Acids Research.
 
 [2] https://github.com/weilin-genomics/SuperCT
 ## Contact
